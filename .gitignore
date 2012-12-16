@@ -6,3 +6,4 @@ Makefile~
 *.aux
 *.toc
 *.out
+replace.sh
