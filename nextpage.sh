@@ -1,5 +1,4 @@
-echo "\newpage
-\section{ദിവസം $1}
+echo "\section{ദിവസം $1}
 
 \slokam{
 
