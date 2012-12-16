@@ -1,0 +1,8 @@
+*.tex~
+source/
+Makefile~
+*.pdf
+*.log
+*.aux
+*.toc
+*.out
